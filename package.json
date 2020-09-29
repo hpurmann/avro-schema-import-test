@@ -1,0 +1,10 @@
+{
+  "name": "avro-schema-import-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hendrik Purmann <h.purmann@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@kafkajs/confluent-schema-registry": "^1.0.6"
+  }
+}

@@ -1,0 +1,8 @@
+@namespace("com.org.domain.fixtures")
+protocol ImportProto {
+  import idl "./sub/simple.avdl";
+
+  record Import {
+    Simple simple;
+  }
+}
